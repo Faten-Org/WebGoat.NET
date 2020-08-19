@@ -12,7 +12,7 @@ using System.Web.Security;
 
 namespace TechInfoSystems.Data.SQLite
 {
-	/// <summary>
+	//// <summary>
 	/// Provides a Membership implementation whose data is stored in a SQLite database.
 	/// </summary>
 	public sealed class SQLiteMembershipProvider : MembershipProvider
